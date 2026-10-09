@@ -1,0 +1,22 @@
+{
+  "ACC001": {
+    "AccountId": "ACC001",
+    "OwnerName": "Lê Tuấn Dũng",
+    "Balance": 25000000
+  },
+  "ACC002": {
+    "AccountId": "ACC002",
+    "OwnerName": "Nguyễn Thị Mai Anh",
+    "Balance": 18000000
+  },
+  "ACC003": {
+    "AccountId": "ACC003",
+    "OwnerName": "Trần Hoàng Nam",
+    "Balance": 9500000
+  },
+  "ACC004": {
+    "AccountId": "ACC004",
+    "OwnerName": "Phạm Minh Đức",
+    "Balance": 10500000
+  }
+}

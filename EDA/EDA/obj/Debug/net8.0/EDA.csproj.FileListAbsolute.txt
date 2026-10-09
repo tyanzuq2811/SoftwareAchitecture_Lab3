@@ -1,0 +1,17 @@
+D:\Architecture\Lab3\EDA\EDA\bin\Debug\net8.0\EDA.exe
+D:\Architecture\Lab3\EDA\EDA\bin\Debug\net8.0\EDA.deps.json
+D:\Architecture\Lab3\EDA\EDA\bin\Debug\net8.0\EDA.runtimeconfig.json
+D:\Architecture\Lab3\EDA\EDA\bin\Debug\net8.0\EDA.dll
+D:\Architecture\Lab3\EDA\EDA\bin\Debug\net8.0\EDA.pdb
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.AssemblyInfoInputs.cache
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.AssemblyInfo.cs
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.csproj.CoreCompileInputs.cache
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.dll
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\refint\EDA.dll
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.pdb
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.genruntimeconfig.cache
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\ref\EDA.dll
+D:\Architecture\Lab3\EDA\EDA\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.csproj.AssemblyReference.cache
+D:\Architecture\Lab3\EDA\EDA\obj\Debug\net8.0\EDA.csproj.Up2Date

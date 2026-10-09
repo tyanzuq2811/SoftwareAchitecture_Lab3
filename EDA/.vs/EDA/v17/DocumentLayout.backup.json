@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Architecture\\Lab3\\EDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\events\\accountcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\events\\accountcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\events\\moneydepositedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\events\\moneydepositedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\events\\moneywithdrawnevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\events\\moneywithdrawnevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|d:\\architecture\\lab3\\eda\\eda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84493E6D-7343-4C4D-A3A0-97F737FA43D3}|EDA\\EDA.csproj|solutionrelative:eda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "EDA\\Events\\IEvent.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\IEvent.cs",
+              "RelativeToolTip": "EDA\\Events\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:22:38.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Services\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "EDA\\Services\\AnalyticsService.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Services\\AnalyticsService.cs",
+              "RelativeToolTip": "EDA\\Services\\AnalyticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:07:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "EDA\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Services\\AccountService.cs",
+              "RelativeToolTip": "EDA\\Services\\AccountService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwDYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:40:08.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\EventBus.cs",
+              "RelativeDocumentMoniker": "EDA\\EventBus.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\EventBus.cs",
+              "RelativeToolTip": "EDA\\EventBus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:02:38.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoneyWithdrawnEvent.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\MoneyWithdrawnEvent.cs",
+              "RelativeDocumentMoniker": "EDA\\Events\\MoneyWithdrawnEvent.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\MoneyWithdrawnEvent.cs",
+              "RelativeToolTip": "EDA\\Events\\MoneyWithdrawnEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:58:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoneyDepositedEvent.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\MoneyDepositedEvent.cs",
+              "RelativeDocumentMoniker": "EDA\\Events\\MoneyDepositedEvent.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\MoneyDepositedEvent.cs",
+              "RelativeToolTip": "EDA\\Events\\MoneyDepositedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:51:18.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountCreatedEvent.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\AccountCreatedEvent.cs",
+              "RelativeDocumentMoniker": "EDA\\Events\\AccountCreatedEvent.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Events\\AccountCreatedEvent.cs",
+              "RelativeToolTip": "EDA\\Events\\AccountCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:45:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Architecture\\Lab3\\EDA\\EDA\\Program.cs",
+              "RelativeDocumentMoniker": "EDA\\Program.cs",
+              "ToolTip": "D:\\Architecture\\Lab3\\EDA\\EDA\\Program.cs",
+              "RelativeToolTip": "EDA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:39:37.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
